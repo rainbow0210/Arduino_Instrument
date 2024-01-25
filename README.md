@@ -1,6 +1,6 @@
 # Arduino_Instrument
 
-This program is Aruduino sketch.
+This program is Arduino sketch.
 
 I created something that looks like a musical instrument.
 
