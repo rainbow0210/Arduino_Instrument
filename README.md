@@ -21,7 +21,7 @@
 
 ### インストール方法
 ```bash
-git clone [https://github.com/rainbow0210/Arduino_Instrument.git](https://github.com/rainbow0210/Arduino_Instrument.git)
+git clone https://github.com/rainbow0210/Arduino_Instrument.git
 cd Arduino_Instrument
 ```
 
@@ -92,7 +92,7 @@ It is designed as a simple instrument-like experience where motion changes both 
 
 ### Installation
 ```bash
-git clone [https://github.com/rainbow0210/Arduino_Instrument.git](https://github.com/rainbow0210/Arduino_Instrument.git)
+git clone https://github.com/rainbow0210/Arduino_Instrument.git
 cd Arduino_Instrument
 ```
 
