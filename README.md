@@ -65,8 +65,6 @@ cd Arduino_Instrument
 - Adafruit LiquidCrystal
 - Arduino IDE ドキュメント
 
-## ライセンス
-記載なし
 
 ## image
 ![Arduino_Instrument image](images/image.png)
@@ -135,9 +133,6 @@ Refer to the following resources for library and platform details.
 - Adafruit NeoPixel
 - Adafruit LiquidCrystal
 - Arduino IDE documentation
-
-## License
-Not specified
 
 ## Image
 ![Arduino_Instrument image](images/image.png)
